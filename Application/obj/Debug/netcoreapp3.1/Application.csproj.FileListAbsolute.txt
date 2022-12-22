@@ -1,0 +1,38 @@
+C:\Users\Tiago\Documents\Projetos\DoubleIt\Prova\Prova\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Tiago\Documents\Projetos\DoubleIt\Prova\Prova\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Tiago\Documents\Projetos\DoubleIt\Prova\Prova\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\Tiago\Documents\Projetos\DoubleIt\Prova\Prova\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Tiago\Documents\Projetos\DoubleIt\Prova\Prova\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Tiago\Documents\Projetos\DoubleIt\Prova\Prova\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Tiago\Documents\Projetos\DoubleIt\Prova\Prova\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\Projetos\DoubleIt\Prova\Prova\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Tiago\Documents\Projetos\DoubleIt\Prova\Prova\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Tiago\Documents\Projetos\DoubleIt\prova\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Tiago\Documents\Projetos\DoubleIt\prova\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Tiago\Documents\Projetos\DoubleIt\prova\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Tiago\Documents\Projetos\DoubleIt\prova\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\Tiago\Documents\Projetos\DoubleIt\prova\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Tiago\Documents\Projetos\DoubleIt\prova\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Tiago\Documents\Projetos\DoubleIt\prova\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\Projetos\DoubleIt\prova\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Tiago\Documents\Projetos\DoubleIt\prova\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\Application\obj\Debug\netcoreapp3.1\Application.pdb

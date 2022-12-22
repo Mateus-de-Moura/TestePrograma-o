@@ -1,0 +1,99 @@
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Pack.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApi.props
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\dev\OneDrive\Área de Trabalho\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.csproj.CopyComplete
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mateus\Desktop\prova-main (1)\prova-main\WebAppi1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
